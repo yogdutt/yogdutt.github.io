@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Yogdutt Sonivadia
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -14,17 +14,17 @@ baseurl: "/neumorphism"
 username: Neumorphism
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Cloud Solution Architect
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: yogdutt@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: yogdutt
+#codepen_username: exampleUser
+#dev_username: exampleUser
+linkedin_username: yogdutt
+twitter_username: yogdutt
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -50,7 +50,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: 18 Years of Experience in Software Architect, Design and Development
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
