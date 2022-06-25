@@ -41,14 +41,14 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/yogdutt
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
-  - title: github
-    url: 
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: 
+  # - title: bitbucket
+  #   url: 
+  # - title: github
+  #   url: 
 
 # Postal address (add as many lines as necessary)
 address:
